@@ -1,1 +1,1 @@
-# nommy-recipe
+# odin-recipe
