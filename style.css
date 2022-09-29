@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(249, 245, 200);
+}
+
+
+button {
+    color: rgb(255, 111, 0);
+    background-color: black;
+    font-size: large;
+}
